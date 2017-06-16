@@ -1,0 +1,12 @@
+[28-Dec-2013 20:54:45 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: range out of order in character class at offset 10 in /home/l33pcom/public_html/e/tite/i/app.php on line 126
+[28-Dec-2013 20:54:46 America/Chicago] PHP Fatal error:  Call to undefined method App::route() in /home/l33pcom/public_html/e/tite/i/app.php on line 153
+[28-Dec-2013 21:07:50 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: range out of order in character class at offset 10 in /home/l33pcom/public_html/e/tite/i/app.php on line 126
+[28-Dec-2013 21:07:50 America/Chicago] PHP Fatal error:  Call to undefined method App::route() in /home/l33pcom/public_html/e/tite/i/app.php on line 153
+[28-Dec-2013 21:09:10 America/Chicago] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: Compilation failed: range out of order in character class at offset 10 in /home/l33pcom/public_html/e/tite/i/app.php on line 126
+[28-Dec-2013 21:09:10 America/Chicago] PHP Fatal error:  Call to undefined method App::route() in /home/l33pcom/public_html/e/tite/i/app.php on line 153
+[28-Dec-2013 21:38:19 America/Chicago] PHP Warning:  require(i/app.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/l33pcom/public_html/e/tite/index.php on line 10
+[28-Dec-2013 21:38:19 America/Chicago] PHP Warning:  require(i/app.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/l33pcom/public_html/e/tite/index.php on line 10
+[28-Dec-2013 21:38:19 America/Chicago] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'i/app.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/l33pcom/public_html/e/tite/index.php on line 10
+[28-Dec-2013 21:52:06 America/Chicago] PHP Notice:  Undefined variable: lang in /home/l33pcom/public_html/e/tite/i/app.php on line 119
+[28-Dec-2013 21:52:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/l33pcom/public_html/e/tite/i/app.php:119) in /home/l33pcom/public_html/e/tite/i/app.php on line 176
+[28-Dec-2013 21:52:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/l33pcom/public_html/e/tite/i/app.php:119) in /home/l33pcom/public_html/e/tite/i/app.php on line 186
