@@ -8,10 +8,10 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 <!DOCTYPE html>
 <html lang="<?php echo App::$lang; ?>">
 <?php
-	
+
 	// HTML Head
 	App::inc('page.head.php');
-	
+
 ?>
 <body>
 <nav>
@@ -31,33 +31,33 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 <section id="about">
 <a name="about"></a>
 <div class="w">
-	
+
 	<h1><?php echo __('Rent a Packtite. Rid your stuff from the bug.'); ?></h1>
-	
+
 	<div class="w packtite"></div>
-	
+
 	<h4 class="center"><?php echo __('Protect your items'); ?></h4>
-	
+
 	<?php echo __('With the Packtite Closet, you can heat-treat and save your items from any hidden bed bugs.'); ?>
 	<?php echo __('These monsters can hide anywhere.'); ?>
 	<br /><br />
-	
+
 	<?php echo __('The Packtite Closet is a heat-treatment machine.'); ?>
 	<br /><br />
-	
+
 </div>
 </section>
 
 <section id="rates">
 <a name="rates"></a>
 <div class="w">
-	
+
 	<h1><?php echo __('Rates'); ?></h1>
 <?php
-	
+
 	// Rates page
 	App::inc('page.rates.php');
-	
+
 ?>
 </div>
 </section>
@@ -67,10 +67,10 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 <div class="w">
 	<h1><?php echo __('Contact'); ?></h1>
 <?php
-	
+
 	// Contact page
 	App::inc('page.contact.php');
-	
+
 ?>
 </div>
 </section>
@@ -78,26 +78,25 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 <section id="faq">
 <a name="faq"></a>
 <div class="w">
-	
+
 	<h1><?php echo __('FAQ'); ?></h1>
 <?php
-	
+
 	// FAQ page
 	App::inc('page.faq.php');
-	
+
 	// Promos
 ?>
 	<h1><?php echo __('Promos'); ?></h1>
 	<?php echo sprintf(__('Refer to us a paying customer, and we will give you a %s cashback.'), PROMO); ?>
-	
+
 </div>
 </section>
 
 <footer>
 <div class="w">
 	<?php echo '&copy; '. date('Y') .'. '. __('All Rights Reserved.'); ?><br />
-	<?php echo __('Attribution notice'); ?><br /><br />
-	<?php echo sprintf(__('Site credits'), $Eric, $Francis); ?>
+	<?php echo __('Attribution notice'); ?>
 </div>
 </footer>
 
@@ -115,30 +114,30 @@ $(document).ready(function()
 {
 	if (window.location.hash && window.location.hash.length && $(window.location.hash))
 		window.scrollBy(0, $(window.location.hash).offset().top - 90);
-	
+
 	$('#nav a, #faq h4 a').click(function(e) {
 		e.preventDefault();
-		$('html,body').scrollTo(this.hash, this.hash, {offset : -90}); 
+		$('html,body').scrollTo(this.hash, this.hash, {offset : -90});
 	});
-	
+
 	$('#faq ol a').click(function(e) {
 		e.preventDefault();
 		$('html,body').scrollTo(this.hash, this.hash, {offset : -75});
 	});
-	
+
 	var aChildren = $('#nav li').children();
 	var aArray = [];
-	for (var i=0; i < aChildren.length; i++) {    
+	for (var i=0; i < aChildren.length; i++) {
 		var aChild = aChildren[i];
 		var ahref = $(aChild).attr('href');
 		aArray.push(ahref);
 	}
-	
+
 	$(window).scroll(function() {
 		var windowPos = $(window).scrollTop();
 		var windowHeight = $(window).height();
 		var docHeight = $(document).height();
-		
+
 		for (var i=0; i < aArray.length; i++) {
 			var theID = aArray[i];
 			var divPos = $(theID).offset().top - 95;
@@ -149,7 +148,7 @@ $(document).ready(function()
 				$("a[href='" + theID + "']").removeClass('current');
 			}
 		}
-		
+
 		if (windowPos + windowHeight == docHeight) {
 			if (!$('#nav li:last-child a').hasClass('current')) {
 				var navActiveCurrent = $('.current').attr("href");
