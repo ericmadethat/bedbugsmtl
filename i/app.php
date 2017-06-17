@@ -118,13 +118,13 @@ class App
 		$msg	= wordwrap($msg, 70, "\r\n");
 
 		// Headers
-		$to		= 'nguyen.eric4@gmail.com, francisamankrah@gmail.com';
-		$headers	= 'From: '. $name .' <'. $email .'>' . "\r\n" .
+		$to       = 'malikandpierce@gmail.com, nguyen.eric4@gmail.com, francisamankrah@gmail.com';
+		$headers  = 'From: '. $name .' <'. $email .'>' . "\r\n" .
 						/*'Cc: Francis <francisamankrah@gmail.com>' . "\r\n" .*/
 						'Reply-To: '. $name .' <'. $email .'>' . "\r\n" .
 						'X-Mailer: PHP/' . phpversion();
 
-		$mail	= mail(
+		$mai      = mail(
 			$to,
 			'Packtite Test mail',
 			$msg,
