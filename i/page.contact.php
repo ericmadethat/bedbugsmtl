@@ -4,9 +4,8 @@ echo __('Please feel free to contact us if you have any questions. It will be ou
 ?>
 
 <div class="half details big">
-	<span>Tel: <a href="tel:514-555-5555">514-555-5555</a></span>
-	<span>Tel 2: <a href="tel:514-555-5555">514-555-5555</a></span>
-	<span><a href="mailto:info@bedbugsmtl.com">info@bedbugsmtl.com</a></span>
+	<span>Tel: <a href="tel:438-388-1026">438-388-1026</a></span>
+	<!-- <span><a href="mailto:info@bedbugsmtl.com">info@bedbugsmtl.com</a></span> -->
 </div>
 
 <?php
