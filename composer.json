@@ -1,4 +1,5 @@
 {
+  "name": "malikandpierce/bedbugslanding",
   "require": {
     "php": ">=7.0",
     "ext-mbstring": "*"
