@@ -34,7 +34,7 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 
 	<h1><?php echo __('Rent a Packtite. Rid your stuff from the bug.'); ?></h1>
 
-	<div class="w packtite"></div>
+	<div class="w packtite <?php echo App::$lang; ?>"></div>
 
 	<h4 class="center"><?php echo __('Protect your items'); ?></h4>
 

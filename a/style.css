@@ -130,8 +130,13 @@ section {
 	margin: 10px 0;
 	height: 400px;
 	/*background: #fff url('illustration.1024.png') center center no-repeat;*/
-	background: #fff url('illustration.2400.png') center center no-repeat;
 	background-size: 100%;
+}
+#about .packtite.en {
+	background: #fff url('illustration.2400.png') center center no-repeat;
+}
+#about .packtite.fr {
+	background: #fff url('illustration.2400_fr.png') center center no-repeat;
 }
 
 #rates {

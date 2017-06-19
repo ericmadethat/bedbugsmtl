@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tite (fr)\n"
+"POT-Creation-Date: 2013-12-29 00:58-0500\n"
+"PO-Revision-Date: 2013-12-29 01:07-0500\n"
+"Last-Translator: Francis A. <fa@francisamankrah.com>\n"
+"Language-Team: Tite <fa@francisamankrah.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: /var/www/sites/bedbugsmtl.com/i\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: page.php:21
+msgid "About"
+msgstr "À Propos"
+
+#: page.php:22 page.php:55
+msgid "Rates"
+msgstr "Tarifs"
+
+#: page.php:23 page.php:68
+msgid "Contact"
+msgstr "Contact"
+
+#: page.php:24 page.php:82
+msgid "FAQ"
+msgstr "FAQ"
+
+#: page.php:35
+msgid "Rent a Packtite. Rid your stuff from the bug."
+msgstr "Louez un Packtite, finissez-en avec les punaises."
+
+#: page.php:39
+msgid "Protect your items"
+msgstr "La meilleure façon de sauver vos effets personnels"
+
+#: page.php:41
+msgid ""
+"With the Packtite Closet, you can heat-treat and save your items from any "
+"hidden bed bugs."
+msgstr ""
+"Avec le Packtite, vous pourrez traiter et sauver vos effets personnels qui "
+"ont été contaminés."
+
+#: page.php:42
+msgid "These monsters can hide anywhere."
+msgstr ""
+"Ces petits monstres peuvent se cacher n'importe où: dans vos livres, jouets, "
+"vêtements, ordinateurs portables, valises, et on en passes. Ils peuvent "
+"s'aplatir et se faufiler dans des trous aussi mince qu'une carte de crédit."
+
+#: page.php:45
+msgid "The Packtite Closet is a heat-treatment machine."
+msgstr ""
+"The Packtite Closet is a heat-treatment machine that allows you to your save "
+"your items by heating them to 120°F (49°C). Studies show that all signs of "
+"bed bug life will break down at this temperature when sustained for at least "
+"one hour. The device is also a lifesaver if you plan on moving out of an "
+"infested home, or just came back from an infested hotel. So instead of "
+"throwing away your belongings, rent a Packtite Closet and save your items!"
+
+#: page.php:90
+msgid "Promos"
+msgstr "Promos"
+
+#: page.php:91
+#, php-format
+msgid "Refer to us a paying customer, and we will give you a %s cashback."
+msgstr ""
+"Rapportez-nous des clients payant, et nous vous remettrons %s sur votre "
+"achat."
+
+#: page.php:98
+msgid "All Rights Reserved."
+msgstr "Tous droits réservés."
+
+#: page.php:99
+msgid "Attribution notice"
+msgstr ""
+"Le contenu de ce site, incluant les images et les graphiques, ne peut être "
+"reproduit ou emprunté sans le consentement du propriétaire."
+
+#: page.php:100
+msgid "Site credits"
+msgstr "Site conçu par %s et %s"
+
+#: page.faq.php:16 page.faq.php:48
+msgid "How does the rental process work?"
+msgstr "Comment fait-on pour louer?"
+
+#: page.faq.php:21 page.faq.php:56
+msgid "How do I assemble the Packtite Closet?"
+msgstr "Comment fait-on pour assembler le Packtite?"
+
+#: page.faq.php:26 page.faq.php:84
+msgid "How long do I have to run the machine for?"
+msgstr "Le traitement dure combien de temps?"
+
+#: page.faq.php:31 page.faq.php:92
+msgid "When do I have to return the Packtite Closet?"
+msgstr "Quand devons-nous remettre le Packtite?"
+
+#: page.faq.php:36 page.faq.php:100
+msgid "Can the Packtite Closet treat my infested home?"
+msgstr "Est-il possible de traiter notre maison au complet?"
+
+#: page.faq.php:41 page.faq.php:108
+msgid "Where can I learn more about how to deal with bed bugs?"
+msgstr "Où puis-je trouver plus d'information sur les punaises?"
+
+#: page.faq.php:49 page.faq.php:57 page.faq.php:85 page.faq.php:93
+#: page.faq.php:101 page.faq.php:109
+msgid "Back to FAQ"
+msgstr "Retour à la liste"
+
+#: page.faq.php:51
+msgid "Answer to How does the rental process work?"
+msgstr ""
+
+#: page.faq.php:59
+msgid "The Packtite Closet includes:"
+msgstr "Le Packtite comprend:"
+
+#: page.faq.php:61
+msgid "The closet itself"
+msgstr "L'appareil lui-même"
+
+#: page.faq.php:62
+msgid "An internal metal frame"
+msgstr "Une structure métallique interne"
+
+#: page.faq.php:63
+msgid "A blower-heater combo"
+msgstr "Une souffleuse pour le chauffage"
+
+#: page.faq.php:64
+msgid "A Thermometer"
+msgstr "Un thermomètre"
+
+#: page.faq.php:65
+msgid "A timer"
+msgstr "Un minuteur"
+
+#: page.faq.php:67
+msgid "Answer to How do I assemble the Packtite Closet?"
+msgstr ""
+
+#: page.faq.php:79
+msgid ""
+"Click here to download the official Packtite Closet instructions manual."
+msgstr ""
+"%sClickez ici%s pour télécharger le manuel d'instructions (en anglais)."
+
+#: page.faq.php:87
+msgid "Answer to How long do I have to run the machine for?"
+msgstr ""
+
+#: page.faq.php:95
+msgid "Answer to When do I have to return the Packtite Closet?"
+msgstr ""
+
+#: page.faq.php:103
+msgid "Answer to Can the Packtite Closet treat my infested home?"
+msgstr ""
+
+#: page.faq.php:111
+msgid "Answer to Where can I learn more about how to deal with bed bugs?"
+msgstr ""
+
+# To Do !!
+#: page.head.php:7 page.head.php:14
+msgid "Beat the Bug"
+msgstr "Pince la Punaise"
+
+# To Do !!
+#: page.head.php:17 page.head.php:18
+msgid "Beat the Bug Description"
+msgstr "Pince la Punaise"
+
+#: page.rates.php:7
+msgid ""
+"We offer flexible rental pricing to fit your rental needs. See our table for "
+"our rates."
+msgstr ""
+"Nous offrons des tarifs flexibles qui répondront à vos besoins. Consultez le "
+"tableau pour nos taux."
+
+#: page.rates.php:12
+msgid "Rental duration"
+msgstr "Durée de location"
+
+#: page.rates.php:13
+msgid "Price"
+msgstr "Prix"
+
+#: page.rates.php:18 page.rates.php:24 page.rates.php:30
+#, php-format
+msgid "%d Days"
+msgstr "%d Jours"
+
+#: page.rates.php:35
+msgid ""
+"We require a deposit of 200$, or half the full rental amount, whichever is "
+"higher."
+msgstr ""
+"Nous exigeons un dépôt du plus grand montant entre %s et la moitié du tarif "
+"de location."
+
+#: page.rates.php:36
+#, php-format
+msgid "A late fee of %s will be charged per day."
+msgstr "Il y a un frais de %s par jour de retard."
+
+#: page.rates.php:37
+msgid "Note that we define a day as 24 hours."
+msgstr ""
+"Notez qu'un jours équivaut à 24 heures. Par exemple, si le Packtite a été "
+"emprunté un lundi pour 3 jours, il est doit être remit jeudi avant 17h au "
+"plus tard. %sClickez ici%s pour plus de détails."
+
+#: page.contact.php:3
+msgid ""
+"Please feel free to contact us if you have any questions. It will be our "
+"pleasure to help."
+msgstr ""
+"N'hésitez surtout pas à nous contacter pour de plus amples informations. Il "
+"nous fera plaisir de vous aider."
+
+#: page.contact.php:15
+msgid "Your message was received. Thank you for contacting us!"
+msgstr ""
+"Nous avons bien reçu votre message. Nous vous reviendrons dans les plus bref "
+"délais."
+
+#: page.contact.php:16
+msgid ""
+"Your message could not be sent. Please use our contact information to get in "
+"touch with us."
+msgstr ""
+"Votre message n'a pas pu être envoyé. Veuillez SVP nous contactez-nous "
+"directement."
+
+#: page.contact.php:26
+msgid "your name"
+msgstr "votre nom"
+
+#: page.contact.php:27
+msgid "your email"
+msgstr "votre courriel"
+
+#: page.contact.php:28
+msgid "your phone number"
+msgstr "votre numéro de téléphone"
+
+#: page.contact.php:29
+msgid "your message"
+msgstr "votre message"
+
+#: page.contact.php:30
+msgid "send"
+msgstr "envoi"

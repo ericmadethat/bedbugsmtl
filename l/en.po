@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bed Bugs MTL\n"
+"POT-Creation-Date: 2013-12-29 00:54-0500\n"
+"PO-Revision-Date: 2013-12-29 00:55-0500\n"
+"Last-Translator: Francis A. <fa@francisamankrah.com>\n"
+"Language-Team: Bed Bugs MTL <info@bedbugsmtl.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: /var/www/sites/bedbugsmtl.com/i\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: page.php:21
+msgid "About"
+msgstr "About"
+
+#: page.php:22 page.php:55
+msgid "Rates"
+msgstr "Rates"
+
+#: page.php:23 page.php:68
+msgid "Contact"
+msgstr "Contact"
+
+#: page.php:24 page.php:82
+msgid "FAQ"
+msgstr "FAQ"
+
+#: page.php:35
+msgid "Rent a Packtite. Rid your stuff from the bug."
+msgstr "Rent a Packtite. Rid your stuff from the bug."
+
+#: page.php:39
+msgid "Protect your items"
+msgstr "The Best Way to Save Your Items"
+
+#: page.php:41
+msgid ""
+"With the Packtite Closet, you can heat-treat and save your items from any "
+"hidden bed bugs."
+msgstr ""
+"With the Packtite Closet, you can heat-treat and save your items from any "
+"hidden bed bugs."
+
+#: page.php:42
+msgid "These monsters can hide anywhere."
+msgstr ""
+"These monsters can hide anywhere: books, toys, clothes, laptops, suitcases, "
+"you name it. They can flatten their bodies and squeeze through anything "
+"that’s the thickness of a credit card."
+
+#: page.php:45
+msgid "The Packtite Closet is a heat-treatment machine."
+msgstr ""
+"The Packtite Closet is a heat-treatment machine that allows you to your save "
+"your items by heating them to 120°F (49°C). Studies show that all signs of "
+"bed bug life will break down at this temperature when sustained for at least "
+"one hour. The device is also a lifesaver if you plan on moving out of an "
+"infested home, or just came back from an infested hotel. So instead of "
+"throwing away your belongings, rent a Packtite Closet and save your items!"
+
+#: page.php:90
+msgid "Promos"
+msgstr "Promos"
+
+#: page.php:91
+#, php-format
+msgid "Refer to us a paying customer, and we will give you a %s cashback."
+msgstr "Refer to us a paying customer, and we will give you a %s cashback."
+
+#: page.php:98
+msgid "All Rights Reserved."
+msgstr "All Rights Reserved."
+
+#: page.php:99
+msgid "Attribution notice"
+msgstr ""
+"No section of this site, including images and graphics, may be borrowed or "
+"reproduced without the owner’s consent."
+
+#: page.php:100
+msgid "Site credits"
+msgstr "Design by %s. Coding by %s."
+
+#: page.faq.php:16 page.faq.php:48
+msgid "How does the rental process work?"
+msgstr "How does the rental process work?"
+
+#: page.faq.php:21 page.faq.php:56
+msgid "How do I assemble the Packtite Closet?"
+msgstr "How do I assemble the Packtite Closet? How does it work?"
+
+#: page.faq.php:26 page.faq.php:84
+msgid "How long do I have to run the machine for?"
+msgstr "How long do I have to run the machine for?"
+
+#: page.faq.php:31 page.faq.php:92
+msgid "When do I have to return the Packtite Closet?"
+msgstr "When do I have to return the Packtite Closet?"
+
+#: page.faq.php:36 page.faq.php:100
+msgid "Can the Packtite Closet treat my infested home?"
+msgstr "Can the Packtite Closet treat my infested home?"
+
+#: page.faq.php:41 page.faq.php:108
+msgid "Where can I learn more about how to deal with bed bugs?"
+msgstr "Where can I learn more about how to deal with bed bugs?"
+
+#: page.faq.php:49 page.faq.php:57 page.faq.php:85 page.faq.php:93
+#: page.faq.php:101 page.faq.php:109
+msgid "Back to FAQ"
+msgstr "Back to FAQ"
+
+#: page.faq.php:51
+msgid "Answer to How does the rental process work?"
+msgstr ""
+"Contact us to set up a rental time and day. We keep the Packtite Closet in "
+"storage. Please bring the deposit, as well as a photo ID on the rental day. "
+"The machine will be ready for you to take home. We recommend transporting "
+"the Packtite Closet by car or taxi."
+
+#: page.faq.php:59
+msgid "The Packtite Closet includes:"
+msgstr "The Packtite Closet includes:"
+
+#: page.faq.php:61
+msgid "The closet itself"
+msgstr "The closet itself"
+
+#: page.faq.php:62
+msgid "An internal metal frame"
+msgstr "An internal metal frame"
+
+#: page.faq.php:63
+msgid "A blower-heater combo"
+msgstr "A blower-heater combo"
+
+#: page.faq.php:64
+msgid "A Thermometer"
+msgstr "A Thermometer"
+
+#: page.faq.php:65
+msgid "A timer"
+msgstr "A timer"
+
+#: page.faq.php:67
+msgid "Answer to How do I assemble the Packtite Closet?"
+msgstr ""
+"Simply set up the metal frame inside the closet, and attach the heater to "
+"the blower. Place your item on the rack inside the Packtite Closet. Place "
+"the thermometer sensor at the center of the item to monitor its temperature. "
+"Connect the blower-heater to a timer, and run the machine."
+
+#: page.faq.php:79
+msgid ""
+"Click here to download the official Packtite Closet instructions manual."
+msgstr ""
+"%sClick here%s to download the official Packtite Closet instructions manual."
+
+#: page.faq.php:87
+msgid "Answer to How long do I have to run the machine for?"
+msgstr ""
+"The time it takes to treat items varies depending on the nature and number "
+"of items in the Packtite Closet. We recommend filling the Packtite Closet no "
+"more than half full for each batch you run. It can take an average of 3-4 "
+"hours to reach 49°C (120F) on a half full batch. Once it reaches 49°C, you "
+"will need to let it run sustained at this temperature for at least 1 hour to "
+"kill all bed bugs."
+
+#: page.faq.php:95
+msgid "Answer to When do I have to return the Packtite Closet?"
+msgstr ""
+"We define a day as 24 hours. For example, if you rented the machine on "
+"Monday, we will need to have it back by Tuesday before 5h00 PM. A late fee "
+"will be charged if it is late. For the full details, please download our "
+"%srental contract%s."
+
+#: page.faq.php:103
+msgid "Answer to Can the Packtite Closet treat my infested home?"
+msgstr ""
+"The Packtite Closet is not meant to be used alone as a means to treat a home "
+"from an infestation. It is meant to treat infected small to medium sized "
+"items. Bed bugs can still hide in the cracks of your walls or under your "
+"mattress. To fully rid your home of an infestation, we highly recommend you "
+"consult professional exterminators."
+
+#: page.faq.php:111
+msgid "Answer to Where can I learn more about how to deal with bed bugs?"
+msgstr ""
+"We highly recommend you consult the community driven BedBugger forums. "
+"%sThis article%s gives a great overview of what to expect when dealing with "
+"bed bugs."
+
+#: page.head.php:7 page.head.php:14
+msgid "Beat the Bug"
+msgstr "Beat the Bug"
+
+#: page.head.php:17 page.head.php:18
+msgid "Beat the Bug Description"
+msgstr "Beat the Bug"
+
+#: page.rates.php:7
+msgid ""
+"We offer flexible rental pricing to fit your rental needs. See our table for "
+"our rates."
+msgstr ""
+"We offer flexible rental pricing to fit your rental needs. See our table for "
+"our rates."
+
+#: page.rates.php:12
+msgid "Rental duration"
+msgstr "Rental duration"
+
+#: page.rates.php:13
+msgid "Price"
+msgstr "Price"
+
+#: page.rates.php:18 page.rates.php:24 page.rates.php:30
+#, php-format
+msgid "%d Days"
+msgstr "%d Days"
+
+#: page.rates.php:35
+msgid ""
+"We require a deposit of 200$, or half the full rental amount, whichever is "
+"higher."
+msgstr ""
+"We require a deposit of %s, or half the full rental amount, whichever is "
+"higher."
+
+#: page.rates.php:36
+#, php-format
+msgid "A late fee of %s will be charged per day."
+msgstr "A late fee of %s will be charged per day."
+
+#: page.rates.php:37
+msgid "Note that we define a day as 24 hours."
+msgstr ""
+"Note that we define a day as 24 hours. For instance, If the Packtite Closet  "
+"is rented on a Monday for 3 days, we will need it back by Thursday before 5 "
+"PM at the latest. To see our complete rental order and contract, %sclick here"
+"%s."
+
+#: page.contact.php:3
+msgid ""
+"Please feel free to contact us if you have any questions. It will be our "
+"pleasure to help."
+msgstr ""
+"Please feel free to contact us if you have any questions. It will be our "
+"pleasure to help."
+
+#: page.contact.php:15
+msgid "Your message was received. Thank you for contacting us!"
+msgstr "Your message was received. Thank you for contacting us!"
+
+#: page.contact.php:16
+msgid ""
+"Your message could not be sent. Please use our contact information to get in "
+"touch with us."
+msgstr ""
+"Your message could not be sent. Please use our contact information to get in "
+"touch with us."
+
+#: page.contact.php:26
+msgid "your name"
+msgstr "your name"
+
+#: page.contact.php:27
+msgid "your email"
+msgstr "your email"
+
+#: page.contact.php:28
+msgid "your phone number"
+msgstr "your phone number"
+
+#: page.contact.php:29
+msgid "your message"
+msgstr "your message"
+
+#: page.contact.php:30
+msgid "send"
+msgstr "send"
+
+#~ msgid "Can’t see this video?"
+#~ msgstr "Can’t see this video? Download it %sfrom here%s."
