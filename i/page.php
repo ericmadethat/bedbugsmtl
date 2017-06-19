@@ -45,11 +45,11 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 	<?php echo __('The Packtite Closet is a heat-treatment machine.'); ?>
 	<br /><br />
 
-	<h1 class="center">Who is this for?</h1>
 	
 	<div class="for-wrap">
 
 		<?php if(APP::$lang == "en") : ?>
+			<h1 class="center">Who is this for?</h1>
 			<ul>
 				<li>
 					<b>Movers: </b>Make sure the bugs won't follow you to a new place.
@@ -62,6 +62,7 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 				</li>
 			</ul>
 		<?php else : ?>
+			<h1 class="center">Pour qui?</h1>
 			<ul>
 				<li>
 					<b>Déménageurs: </b>Assurez vous que les punaises ne vous suivent pas.
