@@ -152,6 +152,11 @@ section {
 		height: 900px;
 	}
 }
+.for-wrap {
+	li {
+		margin: 15px 0;
+	}
+}
 #rates {
 	color: #fff;
 	background-color: #468966;

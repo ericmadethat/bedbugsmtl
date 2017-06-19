@@ -46,18 +46,34 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 	<br /><br />
 
 	<h1 class="center">Who is this for?</h1>
+	
 	<div class="for-wrap">
-	<ul>
-		<li>
-			<b>Movers: </b>Make sure the bugs won't follow you to a new place.
-		</li>
-		<li>
-			<b>Landlords: </b>Rent the packtite for your infested building to help with treatments.
-		</li>
-		<li>
-			<b>Exterminators: </b>Help supplement your treatments.
-		</li>
-	</ul>
+
+		<?php if(APP::$lang == "en") : ?>
+			<ul>
+				<li>
+					<b>Movers: </b>Make sure the bugs won't follow you to a new place.
+				</li>
+				<li>
+					<b>Landlords: </b>Rent the packtite for your infested building to help with treatments.
+				</li>
+				<li>
+					<b>Exterminators: </b>Help supplement your treatments.
+				</li>
+			</ul>
+		<?php else : ?>
+			<ul>
+				<li>
+					<b>Déménageurs: </b>Assurez vous que les punaises ne vous suivent pas.
+				</li>
+				<li>
+					<b>Propriétaires: </b>Louez la machine pour votre édifice infesté.
+				</li>
+				<li>
+					<b>Exterminateurs: </b>Ajouter la machine à votre plan de traitement.
+				</li>
+			</ul>
+		<?php endif; ?>
 	</div>
 
 </div>
