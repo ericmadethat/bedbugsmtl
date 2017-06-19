@@ -128,18 +128,30 @@ section {
 #about .packtite {
 	display: block;
 	margin: 10px 0;
-	height: 400px;
 	/*background: #fff url('illustration.1024.png') center center no-repeat;*/
 }
 #about .packtite.en {
 	background: #fff url('illustration.2400.png') center center no-repeat;
-	background-size: 100%;
+	background-size: contain;
+	height: 400px;
 }
 #about .packtite.fr {
 	background: #fff url('illustration.2400_fr.png') center center no-repeat;
-	background-size: 100%;
+	background-size: contain;
+	height: 400px;
 }
-
+@media (max-width: 700px) {
+	#about .packtite.fr {
+		background: #fff url('illustration_mobile_fr.png') center center no-repeat;
+		background-size: contain;
+		height: 900px;
+	}
+	#about .packtite.en {
+		background: #fff url('illustration_mobile_en.png') center center no-repeat;
+		background-size: contain;
+		height: 900px;
+	}
+}
 #rates {
 	color: #fff;
 	background-color: #468966;
