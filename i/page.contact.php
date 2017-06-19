@@ -1,6 +1,6 @@
 <?php
 
-echo __('Please feel free to contact us if you have any questions. It will be our pleasure to help.');
+echo __('Please feel free to contact us if you have any questions. It will be our pleasure to help!');
 ?>
 
 <div class="half details big">
