@@ -45,6 +45,21 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 	<?php echo __('The Packtite Closet is a heat-treatment machine.'); ?>
 	<br /><br />
 
+	<h1 class="center">Who is this for?</h1>
+	<div class="for-wrap">
+	<ul>
+		<li>
+			<b>Movers: </b>Make sure the bugs won't follow you to a new place.
+		</li>
+		<li>
+			<b>Landlords: </b>Rent the packtite for your infested building to help with treatments.
+		</li>
+		<li>
+			<b>Exterminators: </b>Help supplement your treatments.
+		</li>
+	</ul>
+	</div>
+
 </div>
 </section>
 
