@@ -36,7 +36,7 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 
 	<div class="w packtite <?php echo App::$lang; ?>"></div>
 
-	<h4 class="center"><?php echo __('Protect your items'); ?></h4>
+	<h1 class="center"><?php echo __('Protect your items'); ?></h1>
 
 	<?php echo __('With the Packtite Closet, you can heat-treat and save your items from any hidden bed bugs.'); ?>
 	<?php echo __('These monsters can hide anywhere.'); ?>
