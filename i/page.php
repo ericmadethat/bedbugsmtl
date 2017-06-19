@@ -47,10 +47,9 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 
 	
 	<div class="for-wrap">
-
 		<?php if(APP::$lang == "en") : ?>
 			<h1 class="center">Who is this for?</h1>
-			<ul>
+			<ul class="for-who-list">
 				<li>
 					<b>Movers: </b>Make sure the bugs won't follow you to a new place.
 				</li>
@@ -63,7 +62,7 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 			</ul>
 		<?php else : ?>
 			<h1 class="center">Pour qui?</h1>
-			<ul>
+			<ul class="for-who-list">
 				<li>
 					<b>Déménageurs: </b>Assurez vous que les punaises ne vous suivent pas.
 				</li>
@@ -93,6 +92,17 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 ?>
 </div>
 </section>
+
+<section id="launch">
+<div class="w">
+<?php
+
+	// Launch, collect email page
+	App::inc('page.launch.php');
+?>
+</div>
+</section>
+
 
 <section id="contact">
 <a name="contact"></a>

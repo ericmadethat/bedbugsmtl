@@ -32,6 +32,6 @@ echo __('We offer flexible rental pricing to fit your rental needs. See our tabl
 		<div class="clr"></div>
 	</div>
 </div>
-* <?php echo sprintf(__('We require a deposit of 200$, or half the full rental amount, whichever is higher.'), MIN_DEPOSIT); ?><br />
+<!-- * <?php echo sprintf(__('We require a deposit of 200$, or half the full rental amount, whichever is higher.'), MIN_DEPOSIT); ?><br />
 * <?php echo sprintf(__('A late fee of %s will be charged per day.'), LATE_FEE); ?><br />
-* <?php echo sprintf(__('Note that we define a day as 24 hours.'), $contract, $contract2); ?>
+* <?php echo sprintf(__('Note that we define a day as 24 hours.'), $contract, $contract2); ?> -->

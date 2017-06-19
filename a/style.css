@@ -152,10 +152,8 @@ section {
 		height: 900px;
 	}
 }
-.for-wrap {
-	li {
-		margin: 15px 0;
-	}
+ul.for-who-list li {
+	margin: 15px 0;
 }
 #rates {
 	color: #fff;
@@ -182,10 +180,18 @@ section {
 	color: #fff;
 	background-color: #9db851;
 }
-
+#launch {
+	background-color: #bdd769;
+	color: #fff;
+	height: 300px;
+	padding: 60px 10px 0;
+}
+#launch h1 {
+	font-size: 4.5rem;
+}
 #contact {
 	color: #fff;
-	background-color: #cbe47c;
+	background-color: #f5c781;
 }
 #contact a {
 	color: #fff;
