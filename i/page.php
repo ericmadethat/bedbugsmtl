@@ -54,6 +54,9 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 					<b>Movers: </b>Make sure the bugs won't follow you to a new place.
 				</li>
 				<li>
+					<b>Travellers: </b>Been to an infected hotel? Heat-treat your luggage before unpacking.
+				</li>
+				<li>
 					<b>Landlords: </b>Rent the packtite for your infested building to help with treatments.
 				</li>
 				<li>
@@ -65,6 +68,9 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 			<ul class="for-who-list">
 				<li>
 					<b>Déménageurs: </b>Assurez vous que les punaises ne vous suivent pas.
+				</li>
+				<li>
+					<b>Voyageurs: </b>Vous êtiez dans un hôtel infesté? Traiter votre valise avant de déballer.
 				</li>
 				<li>
 					<b>Propriétaires: </b>Louez la machine pour votre édifice infesté.
