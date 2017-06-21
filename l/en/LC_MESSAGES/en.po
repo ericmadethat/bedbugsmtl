@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bed Bugs MTL\n"
 "POT-Creation-Date: 2013-12-29 00:54-0500\n"
-"PO-Revision-Date: 2017-06-20 17:19-0400\n"
+"PO-Revision-Date: 2017-06-21 14:44-0400\n"
 "Last-Translator: Francis A. <fa@francisamankrah.com>\n"
 "Language-Team: Bed Bugs MTL <info@bedbugsmtl.com>\n"
 "Language: en\n"
@@ -50,16 +50,16 @@ msgstr ""
 #: page.php:42
 msgid "These monsters can hide anywhere."
 msgstr ""
-"These monsters can hide anywhere: books, toys, clothes, laptops, suitcases, "
-"you name it. They can flatten their bodies and squeeze through anything "
-"that’s the thickness of a credit card."
+"They can hide anywhere: books, toys, clothes, laptops, suitcases, etc. They "
+"can flatten their bodies and squeeze through anything that’s the thickness "
+"of a credit card."
 
 #: page.php:45
 msgid "The Packtite Closet is a heat-treatment machine."
 msgstr ""
 "The Packtite Closet is a heat-treatment machine that allows you to your save "
-"your items by heating them to 120°F (49°C). Studies show that bed bugs will "
-"break down at this temperature when sustained for at least one hour."
+"your items by heating them to 120°F (49°C), the temperature where bed bugs "
+"die."
 
 #: page.php:90
 msgid "Promos"
@@ -238,18 +238,14 @@ msgstr "A late fee of %s will be charged per day."
 #: page.rates.php:37
 msgid "Note that we define a day as 24 hours."
 msgstr ""
-"Note that we define a day as 24 hours. For instance, If the Packtite Closet  "
-"is rented on a Monday for 3 days, we will need it back by Thursday before 5 "
-"PM at the latest. To see our complete rental order and contract, %sclick here"
-"%s."
+"As an example, if the Packtite Closet  is rented on a Monday for 3 days, we "
+"will need it back by Thursday before 5 PM at the latest."
 
 #: page.contact.php:3
 msgid ""
 "Please feel free to contact us if you have any questions. It will be our "
 "pleasure to help."
-msgstr ""
-"Please feel free to contact us if you have any questions. It will be our "
-"pleasure to help."
+msgstr "Have questions? It will be our pleasure to help!"
 
 #: page.contact.php:15
 msgid "Your message was received. Thank you for contacting us!"
