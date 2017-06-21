@@ -223,7 +223,7 @@ ul.for-who-list li {
 .contact-form {
 	max-width: 600px;
 }
-.contact-form #submit-btn {
+.contact-form .submit-btn {
 	width: 150px;
 	height: 40px;
 	font-size: 1rem;
