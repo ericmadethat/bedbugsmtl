@@ -135,8 +135,8 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 
 	// Promos
 ?>
-	<h1><?php echo __('Promos'); ?></h1>
-	<?php echo sprintf(__('Refer to us a paying customer, and we will give you a %s cashback.'), PROMO); ?>
+<!-- 	<h1><?php echo __('Promos'); ?></h1>
+	<?php echo sprintf(__('Refer to us a paying customer, and we will give you a %s cashback.'), PROMO); ?> -->
 
 </div>
 </section>
