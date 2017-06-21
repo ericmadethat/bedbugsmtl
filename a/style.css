@@ -220,7 +220,14 @@ ul.for-who-list li {
 	text-align: center;
 	box-shadow: 0 0 0 1px #fff;
 }
-
+.contact-form {
+	max-width: 600px;
+}
+.contact-form #submit-btn {
+	width: 150px;
+	height: 40px;
+	font-size: 1rem;
+}
 #faq {
 	background-color: #fff;
 }
