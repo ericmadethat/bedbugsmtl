@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tite (fr)\n"
 "POT-Creation-Date: 2013-12-29 00:58-0500\n"
-"PO-Revision-Date: 2017-06-21 15:03-0400\n"
+"PO-Revision-Date: 2017-06-21 15:25-0400\n"
 "Last-Translator: Francis A. <fa@francisamankrah.com>\n"
 "Language-Team: Tite <fa@francisamankrah.com>\n"
 "Language: fr\n"
@@ -118,6 +118,10 @@ msgstr "Retour à la liste"
 #: page.faq.php:51
 msgid "Answer to How does the rental process work?"
 msgstr ""
+"Nous gardons le Packtite dans un entrepôt, prêt à emmener à la maison. "
+"Contactez-nous pour organiser un rendez-vous et un temps de location. "
+"Veuillez apporter une pièce d’identité avec photo, ainsi qu’un dépôt de 50%. "
+"Nous recommandons de transporter le Packtite en voiture."
 
 #: page.faq.php:59
 msgid "The Packtite Closet includes:"
@@ -146,6 +150,10 @@ msgstr "Un minuteur"
 #: page.faq.php:67
 msgid "Answer to How do I assemble the Packtite Closet?"
 msgstr ""
+"Implement Installez le cadre métallique à l’intérieur du Packtite, et fixez "
+"la souffleuse-chauffage. Placez vos articles à l’intérieur et placez le "
+"thermomètre au centre de l’article surveiller sa température. Connectez le "
+"ventilateur à une minuterie et démarrez la machine."
 
 #: page.faq.php:79
 msgid ""
@@ -156,18 +164,36 @@ msgstr ""
 #: page.faq.php:87
 msgid "Answer to How long do I have to run the machine for?"
 msgstr ""
+"Le temps nécessaire pour traiter les articles varie en fonction de la nature "
+"et du nombre d’articles. Nous vous recommandons de remplir le Packtite pas "
+"plus de moitié plein pour chaque lot que vous exécutez. Il peut prendre en "
+"moyenne 3-4 heures pour atteindre 49 ° C (120 ° F) sur un lot à moitié "
+"plein. Une fois qu’il atteint 49 ° C, vous devrez le laisser fonctionner à "
+"cette température pendant au moins 1 heure pour tuer toutes les punaises."
 
 #: page.faq.php:95
 msgid "Answer to When do I have to return the Packtite Closet?"
 msgstr ""
+"À titre d’exemple, si vous avez loué la machine le lundi pendant 3 jours, "
+"nous devrons la récupérer jeudi avant 17h00. En can de retard, des frais "
+"seront chargés."
 
 #: page.faq.php:103
 msgid "Answer to Can the Packtite Closet treat my infested home?"
 msgstr ""
+"Le Packtite n’est pas destiné à être utilisé comme le seul moyen de traiter "
+"une maison contre une infestation. Il est destiné à traiter les produits "
+"infectés de petite à moyenne taille. Les punaises de lit peuvent encore se "
+"cacher dans les fissures de vos murs ou sous votre matelas. Pour débarrasser "
+"complètement votre maison d’une infestation, nous vous recommandons "
+"fortement de consulter des exterminateurs professionnels."
 
 #: page.faq.php:111
 msgid "Answer to Where can I learn more about how to deal with bed bugs?"
 msgstr ""
+"Nous vous recommandons vivement de consulter les forums BedBugger. Cet "
+"%sThis article% donne un excellent aperçu à quoi s’attendre lorsqu’il s’agit "
+"de des problèmes de punaises."
 
 # To Do !!
 #: page.head.php:7 page.head.php:14

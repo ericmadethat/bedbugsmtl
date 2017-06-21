@@ -76,7 +76,7 @@ $article	= '<a href="http://bedbugger.com/2007/01/20/faq-think-you-have-bed-bugs
 </video> -->
 
 <br /><br />
-<?php echo sprintf(__('Click here to download the official Packtite Closet instructions manual.'), $inst, $a); ?>
+<!-- <?php echo sprintf(__('Click here to download the official Packtite Closet instructions manual.'), $inst, $a); ?> -->
 <br /><br />
 
 <a name="faq3" id="faq3"></a>

@@ -1,10 +1,9 @@
 <?php
 
-echo __('Please feel free to contact us if you have any questions. It will be our pleasure to help!');
+echo __('Please feel free to contact us if you have any questions. It will be our pleasure to help.');
 ?>
 
 <div class="half details big">
-	<span>Tel: <a href="tel:438-388-1026">438-388-1026</a></span>
 </div>
 
 <form class="contact-form" action="https://formspree.io/malikandpierce@gmail.com"
