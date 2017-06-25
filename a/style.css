@@ -89,6 +89,11 @@ nav .logo {
 	background: transparent url('logo.png') center center no-repeat;
 	background-size: 100%;
 }
+nav .logo a {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
 nav ul {
 	margin: 0;
 	padding: 15px 0 0 0;
@@ -110,7 +115,7 @@ nav a.current {
 
 /*
  * Page sections
- * 
+ *
  */
 section {
 	position: relative;
@@ -271,7 +276,7 @@ footer a:hover {
 
 /*
  * Miscellaneous
- * 
+ *
  */
 .w {
 	position: relative;
@@ -298,16 +303,16 @@ footer a:hover {
 
 /*
  * Media queries
- * 
+ *
  */
 @media only screen and (max-width: 1024px) {
-	
+
 	#rates .table .col {
 		margin: .25%;
 		padding: .75%;
 		width: 48%;
 	}
-	
+
 	.w {
 		margin: 0 5%;
 		width: 90%;
@@ -316,10 +321,10 @@ footer a:hover {
 		margin: 0 .5%;
 		width: 49%;
 	}
-	
+
 }
 @media only screen and (max-width: 600px) {
-	
+
 	nav .logo {
 		left: 0;
 	}
@@ -327,10 +332,10 @@ footer a:hover {
 		height: 220px;
 		/*background-image: url('illustration.600.png');*/
 	}
-	
+
 }
 @media only screen and (max-width: 479px) {
-	
+
 	h1 {
 		font-weight: normal;
 		font-size: 2em;
@@ -340,7 +345,7 @@ footer a:hover {
 		margin: 3px;
 		font-size: 1.2em;
 	}
-	
+
 	nav {
 		text-align: center;
 	}
@@ -360,7 +365,7 @@ footer a:hover {
 	nav a {
 		font-size: 1em;
 	}
-	
+
 	section {
 		padding-bottom: 10px;
 	}
@@ -379,7 +384,7 @@ footer a:hover {
 	/*#faq a.fix {
 		top: -60px;
 	}*/
-	
+
 	.half {
 		width: 99%;
 	}

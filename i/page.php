@@ -16,7 +16,9 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 <body>
 <nav>
 	<div class="w">
-		<div class="logo"></div>
+		<div class="logo">
+            <a href="#"></a>
+        </div>
 		<ul id="nav">
 			<li><a href="#about" class="current"><?php echo __('About'); ?></a></li>
 			<li><a href="#rates"><?php echo __('Rates'); ?></a></li>
@@ -45,7 +47,7 @@ $Francis	= '<a href="http://francisamankrah.com" target="_blank">Francis Amankra
 	<?php echo __('The Packtite Closet is a heat-treatment machine.'); ?>
 	<br /><br />
 
-	
+
 	<div class="for-wrap">
 		<?php if(APP::$lang == "en") : ?>
 			<h1 class="center">Who is this for?</h1>
@@ -168,9 +170,14 @@ $(document).ready(function()
 		$('html,body').scrollTo(this.hash, this.hash, {offset : -90});
 	});
 
-	$('#faq ol a').click(function(e) {
+    $('#faq ol a').click(function(e) {
+        e.preventDefault();
+        $('html,body').scrollTo(this.hash, this.hash, {offset : -75});
+    });
+
+	$('nav .logo a').click(function(e) {
 		e.preventDefault();
-		$('html,body').scrollTo(this.hash, this.hash, {offset : -75});
+        $('html,body').scrollTo('#about', '#about');
 	});
 
 	var aChildren = $('#nav li').children();
